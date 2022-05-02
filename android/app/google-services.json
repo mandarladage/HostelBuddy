@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "616929867996",
+    "project_id": "hostelbuddytrial",
+    "storage_bucket": "hostelbuddytrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616929867996:android:2def904d8bf7ff9cb45c19",
+        "android_client_info": {
+          "package_name": "com.hostelbuddy.hostelbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616929867996-ghjqp7m38sqgg50b4lkbblmm0p1lo3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqoCqr_Olq2Ro5eboX_tBwxb4UU06LeC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616929867996-ghjqp7m38sqgg50b4lkbblmm0p1lo3hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616929867996:android:5a1723f2556eab60b45c19",
+        "android_client_info": {
+          "package_name": "com.yuvicoder.hostel_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616929867996-ghjqp7m38sqgg50b4lkbblmm0p1lo3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqoCqr_Olq2Ro5eboX_tBwxb4UU06LeC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616929867996-ghjqp7m38sqgg50b4lkbblmm0p1lo3hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
